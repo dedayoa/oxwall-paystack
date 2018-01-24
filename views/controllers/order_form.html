@@ -1,0 +1,10 @@
+
+<form id="{$formId}" action="{$fields.formActionUrl}" method="post">
+	<!-- <input type="hidden" name="return" value="{$fields.return_url}" />  -->
+	<!-- <input type="hidden" name="cancel_return" value="{$fields.cancel_return_url}" />  -->
+	<input type="hidden" name="callback_url" value="{$fields.notify_url}" />
+	<input type="hidden" name="reference" value="{$sale->hash}" />
+	<input type="hidden" name="amount" value="{$sale->totalAmount}" />
+	<input type="hidden" name="email" value="{$email}" />
+	<input type="hidden" name="metadata" value="{$metadata}" />
+</form>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<prefix name="billingpaystack" label="Paystack" language_tag="en" language_label="English">
+	<key name="account_settings"><value>Account settings</value></key>
+	<key name="available"><value>available</value></key>
+	<key name="btn_save"><value>Save</value></key>
+	<key name="live_mode_sk"><value>Live Mode Secret Key</value></key>
+	<key name="test_mode_sk"><value>Test Mode Secret Key</value></key>
+	<key name="config_page_heading"><value>Paystack configuration</value></key>
+	<key name="gateway_title"><value>Paystack</value></key>
+	<key name="plugin_configuration_notice"><value>&lt;a href="{$url}"&gt;Paystack plugin&lt;/a&gt; requires additional configuration</value></key>
+	<key name="recurring_supported"><value>Recurring payments</value></key>
+	<key name="test_mode"><value>Test mode</value></key>
+	<key name="settings_updated"><value>Settings has been updated</value></key>
+	<key name="supported_currencies"><value>Supported currencies</value></key>
+</prefix>

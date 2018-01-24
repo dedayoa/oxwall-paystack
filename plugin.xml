@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Paystack Billing</name>
+	<key>billingpaystack</key>
+	<description>Accept payments from users with PayStack payment provider</description>
+    <author>Adedayo Ayeni</author>
+    <authorEmail>dedayoa@gmail.com</authorEmail>
+    <authorUrl>http://dayo.com.ng</authorUrl>
+	<developerKey>eca1f7fdcb20d30bf4e83e6490906895</developerKey>
+    <build>10800</build>
+    <copyright>(C) 2016 Tekart Ltd. All rights reserved.</copyright>
+    <license>OSCL</license>
+    <licenseUrl>http://www.oxwall.org/store/oscl</licenseUrl>
+</plugin>
